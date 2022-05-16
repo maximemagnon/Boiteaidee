@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+IDEE		TAR	10102	nouvelle taille enregistrement : 10102
+IDEE	zstats	RUB+		zstats est une nouvelle rubrique
+IDEE	MessageIdee	RRN		
+IDEE	dateIdee	RRN		
